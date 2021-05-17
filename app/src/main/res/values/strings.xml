@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">appservicios</string>
+    <string name="nombre_de_usuario">Nombre de Usuario</string>
+    <string name="contrase_a">contraseña</string>
+    <string name="correo">Correo</string>
+    <string name="usuario">usuario</string>
+    <string name="nombre">nombre</string>
+    <string name="telefono">Telefono</string>
+    <string name="confirmar_contrase_a">Confirmar Contraseña</string>
+    <string name="fecha_nacimiento">Fecha nacimiento</string>
+</resources>
